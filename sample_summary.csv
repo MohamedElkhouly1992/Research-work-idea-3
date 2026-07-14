@@ -1,0 +1,14 @@
+KPI,Value,Unit
+Simulation strategy,S3,-
+Simulation duration,2,days
+Electric HVAC energy,3056.152325698029,kWh
+Thermal/boiler input,0.0,kWh
+Peak electric demand,152.37060681482382,kW
+Average chiller COP,6.02485706431566,-
+Comfort-degree hours,0.587241656159011,C.h
+Occupied discomfort ratio,3.529605616379527,%
+Maximum average CO2,1044.9743453957003,ppm
+Electricity cost,366.7382790837635,USD
+Operational carbon,1375.2685465641132,kgCO2
+Alarm events,26,events
+Final degradation index,0.041847222222222015,0-1
